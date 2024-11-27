@@ -17,5 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheWarMachine260&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thewarmachine260&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
